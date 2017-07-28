@@ -4,6 +4,8 @@
 embeddings/data/
 embeddings/text8.zip
 face_generation/data/
+batch_norm/MNIST_data/
+semi-supervised/data/
 
 .ipynb_checkpoints/
 
